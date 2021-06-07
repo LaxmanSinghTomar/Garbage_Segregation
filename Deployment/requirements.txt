@@ -1,4 +1,5 @@
 streamlit
-tensorflow==2.2.0
+tensorflow==2.1.*
+tensorflow-estimator==2.1.*
 keras
 numpy
